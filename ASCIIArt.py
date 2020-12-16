@@ -1,4 +1,5 @@
 # This file contains all of the ascii art used in the game
+# NOT ORIGINAL ART WORK: ART FROM https://www.asciiart.eu/
 global OpeningPlanet
 OpeningPlanet = """
                                                                        ..;===+.
